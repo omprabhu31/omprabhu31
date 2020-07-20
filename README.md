@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, nice to see you! I am Om Prabhu. 
+Hey there, nice to see you! I am Om Prabhu. 
 I am interested in programming and playing video games.
 To know more about me and my projects, kindly visit [my website](https://omprabhu31.github.io/).
 Otherwise, feel free to browse my repositories and dig stuff up!
