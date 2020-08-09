@@ -19,3 +19,7 @@ Hey there, nice to see you! I am Om Prabhu.
 I am interested in programming and playing video games.
 To know more about me and my projects, kindly visit [my website](https://omprabhu31.github.io/).
 Otherwise, feel free to browse my repositories and dig stuff up!
+
+<img src="https://github-readme-stats.vercel.app/api?username=omprabhu31&&show_icons=trueicon_color=666633&text_color=ffffff&bg_color=242424" width="100%"/>
+
+(Total commits may differ due to contributions to private repos)
