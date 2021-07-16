@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there, nice to see you! I am Om Prabhu. 
-I am interested in mathematics (mainly linear algebra), programming and video games.
-To know more about me and my projects, kindly visit [my website](https://omprabhu31.github.io/).
+Hey there, nice to see you! I am Om Prabhu, a third year undergraduate student at the Department of Mechanical Engineering. IIT Bombay.
+I am interested in mathematics (mainly linear algebra) and control theory. I am also an aspiring Unity game developer with a keen interest in programming and 2D pixel art.
+To know more about me, kindly visit [my website](https://omprabhu31.github.io/).
 Otherwise, feel free to browse my repositories and dig stuff up!
 
 <img src="https://github-readme-stats.vercel.app/api?username=omprabhu31&&show_icons=trueicon_color=ffa500&text_color=ffffff&bg_color=000000" width="100%"/>
