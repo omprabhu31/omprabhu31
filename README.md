@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there, nice to see you! I am Om Prabhu, a third year undergraduate student at the Department of Mechanical Engineering. IIT Bombay.
+Hey there, nice to meet you! I am Om Prabhu, a fourth year undergraduate student at the Department of Mechanical Engineering. IIT Bombay.
 I am interested in mathematics (mainly linear algebra) and control theory. I am also an aspiring Unity game developer with a keen interest in programming and 2D pixel art.
 To know more about me, kindly visit [my website](https://omprabhu31.github.io/).
 Otherwise, feel free to browse my repositories and dig stuff up!
