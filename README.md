@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there, nice to meet you! I am Om Prabhu, a final year undergraduate student at the Department of Mechanical Engineering. IIT Bombay.
-I am interested in mathematics (mainly linear algebra), data science (mainly natural language processing and computer vision applications) and optimal control theory. 
-I am also an aspiring Unity game developer with a keen interest in programming and 2D pixel art.
+Hey there, nice to meet you! I am Om Prabhu, a MSc AI student at the University of Edinburgh.
+I am interested in mathematics (mainly linear algebra), machine learning (mainly natural language processing applications) and time series. 
+I am also an hobbyist Unity developer with a keen interest in programming and 2D pixel art.
 To know more about me, kindly visit [my website](https://omprabhu31.github.io/).
 Otherwise, feel free to browse my repositories and dig stuff up!
 
