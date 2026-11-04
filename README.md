@@ -21,6 +21,6 @@ I am also an hobbyist Unity developer with a keen interest in programming and 2D
 To know more about me, kindly visit [my website](https://omprabhu31.github.io/).
 Otherwise, feel free to browse my repositories and dig stuff up!
 
-<img src="https://github-readme-stats.vercel.app/api?username=omprabhu31&&show_icons=trueicon_color=ffa500&text_color=ffffff&bg_color=000000" width="100%"/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=omprabhu31&custom_title=My%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=omprabhu31&custom_title=My%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
 
 (Total commits may differ due to contributions to private repos)
