@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there, nice to meet you! I am Om Prabhu, a MSc AI student at the University of Edinburgh.
-I am interested in mathematics (mainly linear algebra), machine learning (mainly natural language processing applications) and time series. 
+Hey there, nice to meet you! I am Om Prabhu, a MSc AI student at the University of Edinburgh. I am interested in mathematics (mainly linear algebra), machine learning (mainly natural language processing applications) and time series. 
+
 I am also an hobbyist Unity developer with a keen interest in programming and 2D pixel art.
 To know more about me, kindly visit [my website](https://omprabhu31.github.io/).
 Otherwise, feel free to browse my repositories and dig stuff up!
